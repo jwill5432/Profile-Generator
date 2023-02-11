@@ -1,0 +1,23 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwill5432/Profile-Generator.git"
+  },
+  "author": "jwill5432",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwill5432/Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/jwill5432/Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "jest": "^29.4.2"
+  }
+}
